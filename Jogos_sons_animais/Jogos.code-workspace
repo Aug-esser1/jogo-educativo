@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Jogos",
+			"path": "../../Documents/Jogos"
+		},
+		{
+			"name": "Jogos_sons_animais",
+			"path": "."
+		},
+		{
+			"name": "jogo sons",
+			"path": "../jogo sons"
+		},
+		{
+			"name": "Desktop",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jogo sons"
+	}
+}
